@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: scrapy-plus
+Version: 1.0
+Summary: A mini spider frmework,like Scrapy
+Home-page: #
+Author: xixi
+Author-email: xixi@email.com
+License: Apache License v2
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: PRoramming Language :: Python
+Classifier: Operating System :: MICrosoft :: Windows
+Classifier: Operating System :: Unix
+Classifier: PRoramming Language :: Python :: 2.7
+Classifier: PRoramming Language :: Python :: 3.4
+Classifier: PRoramming Language :: Python :: 3.5
+Classifier: PRoramming Language :: Python :: 3.6

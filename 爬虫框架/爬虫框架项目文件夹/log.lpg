@@ -1,0 +1,737 @@
+2019-11-28 21:47:23 engine.py [line:32] INFO:爬虫启动：2019-11-28 21:47:23.449820
+2019-11-28 21:48:38 engine.py [line:32] INFO:爬虫启动：2019-11-28 21:48:38.788599
+2019-11-28 21:50:19 engine.py [line:32] INFO:爬虫启动：2019-11-28 21:50:19.610784
+2019-11-28 21:51:37 engine.py [line:32] INFO:爬虫启动：2019-11-28 21:51:37.938707
+2019-11-28 21:52:27 engine.py [line:32] INFO:爬虫启动：2019-11-28 21:52:27.793039
+2019-11-28 21:52:27 engine.py [line:35] INFO:爬虫结束：2019-11-28 21:52:27.993847
+2019-11-28 21:52:27 engine.py [line:36] INFO:爬虫一共运行：0.200808秒
+2019-11-28 22:18:14 engine.py [line:32] INFO:爬虫启动：2019-11-28 22:18:14.759859
+2019-11-28 22:18:14 engine.py [line:35] INFO:爬虫结束：2019-11-28 22:18:14.942182
+2019-11-28 22:18:14 engine.py [line:36] INFO:爬虫一共运行：0.182323秒
+2019-11-29 21:28:07 engine.py [line:36] INFO:爬虫启动：2019-11-29 21:28:07.011408
+2019-11-29 21:29:11 engine.py [line:36] INFO:爬虫启动：2019-11-29 21:29:11.717596
+2019-11-29 21:29:11 engine.py [line:39] INFO:爬虫结束：2019-11-29 21:29:11.817400
+2019-11-29 21:29:11 engine.py [line:40] INFO:爬虫一共运行：0.099804秒
+2019-11-29 21:34:44 engine.py [line:36] INFO:爬虫启动：2019-11-29 21:34:44.481744
+2019-11-29 21:34:44 engine.py [line:39] INFO:爬虫结束：2019-11-29 21:34:44.533539
+2019-11-29 21:34:44 engine.py [line:40] INFO:爬虫一共运行：0.051795秒
+2019-11-29 21:41:30 engine.py [line:36] INFO:爬虫启动：2019-11-29 21:41:30.114918
+2019-11-29 21:41:30 engine.py [line:39] INFO:爬虫结束：2019-11-29 21:41:30.171772
+2019-11-29 21:41:30 engine.py [line:40] INFO:爬虫一共运行：0.056854秒
+2019-11-29 23:11:13 engine.py [line:36] INFO:爬虫启动：2019-11-29 23:11:13.658087
+2019-11-29 23:11:13 downloader.py [line:22] INFO:<200    http://www.baidu.com/> 
+2019-11-29 23:11:13 engine.py [line:39] INFO:爬虫结束：2019-11-29 23:11:13.871045
+2019-11-29 23:11:13 engine.py [line:40] INFO:爬虫一共运行：0.212958秒
+2019-11-29 23:11:47 engine.py [line:36] INFO:爬虫启动：2019-11-29 23:11:47.526848
+2019-11-29 23:11:47 downloader.py [line:22] INFO:<418    http://www.douban.com/> 
+2019-11-29 23:11:47 engine.py [line:39] INFO:爬虫结束：2019-11-29 23:11:47.646644
+2019-11-29 23:11:47 engine.py [line:40] INFO:爬虫一共运行：0.119796秒
+2019-11-29 23:39:04 engine.py [line:38] INFO:爬虫启动：2019-11-29 23:39:04.231036
+2019-11-29 23:39:43 engine.py [line:38] INFO:爬虫启动：2019-11-29 23:39:43.576158
+2019-11-29 23:39:43 downloader.py [line:22] INFO:<418    http://www.douban.com/> 
+2019-11-29 23:39:43 engine.py [line:41] INFO:爬虫结束：2019-11-29 23:39:43.824311
+2019-11-29 23:39:43 engine.py [line:42] INFO:爬虫一共运行：0.248153秒
+2019-11-29 23:39:43 engine.py [line:43] INFO:总的请求数：1个
+2019-11-29 23:39:43 engine.py [line:44] INFO:总的响应数：1个
+2019-11-30 00:23:51 engine.py [line:38] INFO:爬虫启动：2019-11-30 00:23:51.777692
+2019-11-30 00:23:52 downloader.py [line:22] INFO:<418    https://movie.douban.com/top250?start=0&filter=> 
+2019-11-30 00:29:15 engine.py [line:38] INFO:爬虫启动：2019-11-30 00:29:15.245914
+2019-11-30 00:29:15 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-11-30 00:29:15 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-11-30 00:29:16 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-11-30 00:29:16 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-11-30 00:29:17 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-11-30 00:29:17 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-11-30 00:29:17 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-11-30 00:29:18 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-11-30 00:29:18 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=200&filter=> 
+2019-11-30 00:29:18 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=225&filter=> 
+2019-11-30 00:29:18 engine.py [line:41] INFO:爬虫结束：2019-11-30 00:29:18.923411
+2019-11-30 00:29:18 engine.py [line:42] INFO:爬虫一共运行：3.677497秒
+2019-11-30 00:29:18 engine.py [line:43] INFO:总的请求数：10个
+2019-11-30 00:29:18 engine.py [line:44] INFO:总的响应数：10个
+2019-11-30 00:54:53 engine.py [line:38] INFO:爬虫启动：2019-11-30 00:54:53.055817
+2019-11-30 00:54:53 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-11-30 00:54:53 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-11-30 00:54:54 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-11-30 00:54:55 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-11-30 00:54:55 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-11-30 00:54:55 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-11-30 00:54:56 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-11-30 00:54:56 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-11-30 00:54:57 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=200&filter=> 
+2019-11-30 00:54:57 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=225&filter=> 
+2019-11-30 00:54:57 downloader.py [line:22] INFO:<418    https://movie.douban.com/subject/1292052/> 
+2019-11-30 00:55:06 engine.py [line:38] INFO:爬虫启动：2019-11-30 00:55:06.661143
+2019-11-30 00:55:07 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-11-30 00:55:07 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-11-30 00:55:07 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-11-30 00:55:08 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-11-30 00:55:08 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-11-30 00:55:09 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-11-30 00:55:09 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-11-30 00:55:09 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-11-30 00:55:10 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=200&filter=> 
+2019-11-30 00:55:10 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=225&filter=> 
+2019-11-30 00:55:10 downloader.py [line:22] INFO:<418    https://movie.douban.com/subject/1292052/> 
+2019-11-30 00:56:38 engine.py [line:38] INFO:爬虫启动：2019-11-30 00:56:38.736259
+2019-11-30 00:56:39 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-11-30 00:56:39 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-11-30 00:56:40 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-11-30 00:56:40 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-11-30 00:56:41 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-11-30 00:56:41 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-11-30 00:56:41 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-11-30 00:56:42 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-11-30 00:56:42 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=200&filter=> 
+2019-11-30 00:56:42 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=225&filter=> 
+2019-11-30 00:56:43 downloader.py [line:22] INFO:<418    https://movie.douban.com/subject/1292052/> 
+2019-11-30 00:59:20 engine.py [line:38] INFO:爬虫启动：2019-11-30 00:59:20.372762
+2019-11-30 00:59:20 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-11-30 00:59:21 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-11-30 00:59:21 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-11-30 00:59:21 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-11-30 00:59:22 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-11-30 00:59:22 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-11-30 00:59:23 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-11-30 00:59:24 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-11-30 00:59:24 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=200&filter=> 
+2019-11-30 00:59:24 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=225&filter=> 
+2019-11-30 00:59:25 downloader.py [line:22] INFO:<418    https://movie.douban.com/subject/1292052/> 
+2019-11-30 01:00:19 engine.py [line:38] INFO:爬虫启动：2019-11-30 01:00:19.984753
+2019-11-30 01:00:25 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-11-30 01:00:29 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-11-30 01:00:29 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-11-30 01:00:29 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-11-30 01:00:32 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-11-30 01:00:36 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-11-30 01:00:36 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-11-30 01:00:38 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-11-30 01:00:38 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=200&filter=> 
+2019-11-30 01:00:40 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=225&filter=> 
+2019-11-30 01:00:40 downloader.py [line:22] INFO:<418    https://movie.douban.com/subject/1292052/> 
+2019-11-30 01:01:07 engine.py [line:38] INFO:爬虫启动：2019-11-30 01:01:07.320686
+2019-11-30 01:01:08 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-11-30 01:01:08 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-11-30 01:01:08 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-11-30 01:01:09 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-11-30 01:01:09 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-11-30 01:01:10 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-11-30 01:01:10 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-11-30 01:01:11 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-11-30 01:01:11 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=200&filter=> 
+2019-11-30 01:01:11 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=225&filter=> 
+2019-11-30 01:01:12 downloader.py [line:22] INFO:<418    https://movie.douban.com/subject/1292052/> 
+2019-11-30 01:02:54 engine.py [line:38] INFO:爬虫启动：2019-11-30 01:02:54.160401
+2019-11-30 01:02:54 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-11-30 01:02:54 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-11-30 01:02:55 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-11-30 01:02:55 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-11-30 01:02:55 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-11-30 01:02:57 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-11-30 01:02:57 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-11-30 01:02:58 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-11-30 01:02:58 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=200&filter=> 
+2019-11-30 01:02:58 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=225&filter=> 
+2019-11-30 01:03:00 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292052/> 
+2019-11-30 01:04:56 engine.py [line:38] INFO:爬虫启动：2019-11-30 01:04:56.074074
+2019-11-30 01:04:56 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-11-30 01:04:56 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-11-30 01:04:57 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-11-30 01:04:57 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-11-30 01:04:58 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-11-30 01:04:58 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-11-30 01:04:58 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-11-30 01:04:59 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-11-30 01:04:59 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=200&filter=> 
+2019-11-30 01:04:59 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=225&filter=> 
+2019-11-30 01:05:01 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292052/> 
+2019-11-30 01:05:01 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1851857/> 
+2019-11-30 01:05:02 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1293350/> 
+2019-11-30 01:05:03 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292223/> 
+2019-11-30 01:05:04 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/25958717/> 
+2019-11-30 01:05:05 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1306249/> 
+2019-11-30 01:05:06 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292401/> 
+2019-11-30 01:05:07 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1291578/> 
+2019-11-30 01:05:08 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1862151/> 
+2019-11-30 01:05:09 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1291544/> 
+2019-11-30 01:05:09 engine.py [line:41] INFO:爬虫结束：2019-11-30 01:05:09.455768
+2019-11-30 01:05:09 engine.py [line:42] INFO:爬虫一共运行：13.381694秒
+2019-11-30 01:05:09 engine.py [line:43] INFO:总的请求数：20个
+2019-11-30 01:05:09 engine.py [line:44] INFO:总的响应数：20个
+2019-11-30 01:07:15 engine.py [line:38] INFO:爬虫启动：2019-11-30 01:07:15.358672
+2019-11-30 01:07:15 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-11-30 01:07:17 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-11-30 01:07:17 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-11-30 01:07:17 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-11-30 01:07:18 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-11-30 01:07:18 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-11-30 01:07:18 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-11-30 01:07:19 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-11-30 01:07:32 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=200&filter=> 
+2019-11-30 01:07:32 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=225&filter=> 
+2019-11-30 01:07:33 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292052/> 
+2019-11-30 01:08:35 engine.py [line:38] INFO:爬虫启动：2019-11-30 01:08:35.667706
+2019-11-30 01:08:36 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-11-30 01:08:36 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-11-30 01:08:36 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-11-30 01:08:37 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-11-30 01:08:37 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-11-30 01:08:37 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-11-30 01:08:38 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-11-30 01:08:39 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-11-30 01:08:40 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=200&filter=> 
+2019-11-30 01:08:40 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=225&filter=> 
+2019-11-30 01:08:41 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292052/> 
+2019-11-30 01:08:42 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1851857/> 
+2019-11-30 01:08:43 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1293350/> 
+2019-11-30 01:08:43 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292223/> 
+2019-11-30 01:08:44 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/25958717/> 
+2019-11-30 01:08:45 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1306249/> 
+2019-11-30 01:08:46 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292401/> 
+2019-11-30 01:08:48 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1291578/> 
+2019-11-30 01:08:49 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1862151/> 
+2019-11-30 01:08:50 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1291544/> 
+2019-11-30 01:08:50 engine.py [line:41] INFO:爬虫结束：2019-11-30 01:08:50.469601
+2019-11-30 01:08:50 engine.py [line:42] INFO:爬虫一共运行：14.801895秒
+2019-11-30 01:08:50 engine.py [line:43] INFO:总的请求数：20个
+2019-11-30 01:08:50 engine.py [line:44] INFO:总的响应数：20个
+2019-11-30 01:09:44 engine.py [line:38] INFO:爬虫启动：2019-11-30 01:09:44.865167
+2019-11-30 01:09:45 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-11-30 01:09:45 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-11-30 01:09:46 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-11-30 01:09:47 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-11-30 01:09:47 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-11-30 01:09:48 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-11-30 01:09:48 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-11-30 01:09:48 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-11-30 01:09:49 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=200&filter=> 
+2019-11-30 01:09:49 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=225&filter=> 
+2019-11-30 01:09:50 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292052/> 
+2019-11-30 01:09:51 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1851857/> 
+2019-11-30 01:09:52 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1293350/> 
+2019-11-30 01:09:53 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292223/> 
+2019-11-30 01:09:54 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/25958717/> 
+2019-11-30 01:09:55 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1306249/> 
+2019-11-30 01:09:56 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292401/> 
+2019-11-30 01:09:56 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1291578/> 
+2019-11-30 01:09:57 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1862151/> 
+2019-11-30 01:09:58 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1291544/> 
+2019-11-30 01:09:58 engine.py [line:41] INFO:爬虫结束：2019-11-30 01:09:58.343734
+2019-11-30 01:09:58 engine.py [line:42] INFO:爬虫一共运行：13.478567秒
+2019-11-30 01:09:58 engine.py [line:43] INFO:总的请求数：20个
+2019-11-30 01:09:58 engine.py [line:44] INFO:总的响应数：20个
+2019-12-01 23:27:38 engine.py [line:38] INFO:爬虫启动：2019-12-01 23:27:38.031167
+2019-12-01 23:27:38 downloader.py [line:22] INFO:<418    http://www.douban.com/> 
+2019-12-01 23:27:38 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-12-01 23:27:38 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-12-01 23:27:39 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-12-01 23:27:39 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-12-01 23:27:39 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-12-01 23:27:41 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-12-01 23:27:41 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-12-01 23:27:42 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-12-01 23:27:42 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=200&filter=> 
+2019-12-01 23:27:43 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=225&filter=> 
+2019-12-01 23:27:44 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292052/> 
+2019-12-01 23:31:44 engine.py [line:38] INFO:爬虫启动：2019-12-01 23:31:44.562328
+2019-12-01 23:31:44 downloader.py [line:22] INFO:<418    http://www.douban.com/> 
+2019-12-01 23:31:47 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-12-01 23:31:47 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-12-01 23:31:49 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-12-01 23:31:50 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-12-01 23:31:50 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-12-01 23:31:50 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-12-01 23:31:51 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-12-01 23:31:52 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-12-01 23:32:23 engine.py [line:38] INFO:爬虫启动：2019-12-01 23:32:23.102676
+2019-12-01 23:32:23 downloader.py [line:22] INFO:<418    http://www.douban.com/> 
+2019-12-01 23:32:24 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-12-01 23:32:25 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-12-01 23:32:26 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-12-01 23:32:29 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-12-01 23:32:30 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-12-01 23:32:30 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-12-01 23:32:34 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-12-01 23:32:34 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-12-01 23:32:35 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=200&filter=> 
+2019-12-01 23:32:36 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=225&filter=> 
+2019-12-01 23:32:40 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292052/> 
+2019-12-01 23:35:46 engine.py [line:38] INFO:爬虫启动：2019-12-01 23:35:46.745560
+2019-12-01 23:35:46 downloader.py [line:22] INFO:<418    http://www.douban.com/> 
+2019-12-01 23:37:25 engine.py [line:38] INFO:爬虫启动：2019-12-01 23:37:25.955227
+2019-12-01 23:37:26 downloader.py [line:22] INFO:<418    http://www.douban.com/> 
+2019-12-01 23:37:29 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-12-01 23:37:30 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-12-01 23:37:48 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-12-01 23:37:52 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-12-01 23:37:54 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-12-01 23:37:55 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-12-01 23:37:55 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-12-01 23:37:55 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-12-01 23:37:56 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=200&filter=> 
+2019-12-01 23:37:56 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=225&filter=> 
+2019-12-01 23:38:00 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292052/> 
+2019-12-01 23:40:52 engine.py [line:38] INFO:爬虫启动：2019-12-01 23:40:52.569053
+2019-12-01 23:40:52 downloader.py [line:22] INFO:<418    http://www.douban.com/> 
+2019-12-01 23:41:08 engine.py [line:38] INFO:爬虫启动：2019-12-01 23:41:08.338128
+2019-12-01 23:41:08 downloader.py [line:22] INFO:<418    http://www.douban.com/> 
+2019-12-01 23:41:51 engine.py [line:38] INFO:爬虫启动：2019-12-01 23:41:51.490543
+2019-12-01 23:41:51 downloader.py [line:22] INFO:<418    http://www.douban.com/> 
+2019-12-01 23:41:52 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-12-01 23:41:53 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-12-01 23:41:54 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-12-01 23:41:55 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-12-01 23:41:57 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-12-01 23:41:58 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-12-01 23:41:58 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-12-01 23:41:59 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-12-01 23:41:59 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=200&filter=> 
+2019-12-01 23:42:00 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=225&filter=> 
+2019-12-01 23:42:03 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292052/> 
+2019-12-01 23:42:04 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1851857/> 
+2019-12-01 23:43:39 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1293350/> 
+2019-12-01 23:43:42 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292223/> 
+2019-12-01 23:43:43 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/25958717/> 
+2019-12-01 23:43:44 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1306249/> 
+2019-12-01 23:43:48 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/25773932/> 
+2019-12-01 23:43:49 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1291578/> 
+2019-12-01 23:43:50 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1862151/> 
+2019-12-01 23:43:52 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/6874403/> 
+2019-12-01 23:43:52 engine.py [line:41] INFO:爬虫结束：2019-12-01 23:43:52.737548
+2019-12-01 23:43:52 engine.py [line:42] INFO:爬虫一共运行：121.247005秒
+2019-12-01 23:43:52 engine.py [line:43] INFO:总的请求数：21个
+2019-12-01 23:43:52 engine.py [line:44] INFO:总的响应数：21个
+2019-12-02 00:05:36 engine.py [line:38] INFO:爬虫启动：2019-12-02 00:05:36.409547
+2019-12-02 00:05:37 downloader.py [line:22] INFO:<200    https://www.douban.com/> 
+2019-12-02 00:05:37 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-12-02 00:05:38 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-12-02 00:05:39 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-12-02 00:05:39 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-12-02 00:05:40 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-12-02 00:05:40 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-12-02 00:05:41 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-12-02 00:05:41 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-12-02 00:05:42 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=200&filter=> 
+2019-12-02 00:05:42 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=225&filter=> 
+2019-12-02 00:06:03 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292052/> 
+2019-12-02 00:06:05 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1851857/> 
+2019-12-02 00:06:06 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1293350/> 
+2019-12-02 00:06:07 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292223/> 
+2019-12-02 00:06:08 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/25958717/> 
+2019-12-03 23:11:40 engine.py [line:38] INFO:爬虫启动：2019-12-03 23:11:40.959503
+2019-12-03 23:11:41 downloader.py [line:22] INFO:<200    https://www.douban.com/> 
+2019-12-03 23:11:41 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-12-03 23:11:42 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-12-03 23:11:42 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-12-03 23:11:42 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-12-03 23:11:43 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-12-03 23:11:43 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-12-03 23:11:44 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-12-03 23:11:44 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-12-03 23:11:44 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=200&filter=> 
+2019-12-03 23:11:45 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=225&filter=> 
+2019-12-03 23:11:47 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292052/> 
+2019-12-03 23:11:48 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1851857/> 
+2019-12-03 23:11:49 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1293350/> 
+2019-12-03 23:11:54 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292223/> 
+2019-12-03 23:11:55 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/25958717/> 
+2019-12-03 23:11:57 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1306249/> 
+2019-12-03 23:11:58 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/25773932/> 
+2019-12-03 23:11:58 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1291578/> 
+2019-12-03 23:11:59 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1862151/> 
+2019-12-03 23:12:00 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/6874403/> 
+2019-12-03 23:12:00 engine.py [line:41] INFO:爬虫结束：2019-12-03 23:12:00.894141
+2019-12-03 23:12:00 engine.py [line:42] INFO:爬虫一共运行：19.934638秒
+2019-12-03 23:12:00 engine.py [line:43] INFO:总的请求数：21个
+2019-12-03 23:12:00 engine.py [line:44] INFO:总的响应数：21个
+2019-12-04 00:04:26 engine.py [line:56] INFO:爬虫启动：2019-12-04 00:04:26.717040
+2019-12-04 00:04:27 downloader.py [line:22] INFO:<200    https://www.douban.com/> 
+2019-12-04 00:04:27 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-12-04 00:04:28 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-12-04 00:04:28 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-12-04 00:04:28 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-12-04 00:04:29 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-12-04 00:04:29 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-12-04 00:04:29 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-12-04 00:04:30 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-12-04 00:04:30 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=200&filter=> 
+2019-12-04 00:04:30 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=225&filter=> 
+2019-12-04 00:04:31 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292052/> 
+2019-12-04 00:04:32 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1851857/> 
+2019-12-04 00:04:33 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1293350/> 
+2019-12-04 00:04:34 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292223/> 
+2019-12-04 00:05:33 engine.py [line:56] INFO:爬虫启动：2019-12-04 00:05:33.828055
+2019-12-04 00:05:34 downloader.py [line:22] INFO:<200    https://www.douban.com/> 
+2019-12-04 00:05:34 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-12-04 00:05:35 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-12-04 00:05:35 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-12-04 00:05:36 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-12-04 00:05:36 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-12-04 00:05:36 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-12-04 00:05:37 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-12-04 00:05:37 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-12-04 00:05:37 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=200&filter=> 
+2019-12-04 00:05:38 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=225&filter=> 
+2019-12-04 00:05:39 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292052/> 
+2019-12-04 00:05:40 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1851857/> 
+2019-12-04 22:59:54 engine.py [line:62] INFO:爬虫启动：2019-12-04 22:59:54.571672
+2019-12-04 23:02:29 engine.py [line:62] INFO:爬虫启动：2019-12-04 23:02:29.296965
+2019-12-04 23:02:29 downloader.py [line:22] INFO:<200    https://www.douban.com/> 
+2019-12-04 23:02:30 downloader.py [line:22] INFO:<200    https://www.douban.com/> 
+2019-12-04 23:02:30 downloader.py [line:22] INFO:<200    https://www.douban.com/> 
+2019-12-04 23:02:31 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-12-04 23:02:31 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-12-04 23:02:31 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-12-04 23:02:32 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-12-04 23:02:32 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-12-04 23:02:32 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-12-04 23:02:33 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-12-04 23:02:33 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-12-04 23:02:33 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=200&filter=> 
+2019-12-04 23:02:34 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=225&filter=> 
+2019-12-04 23:02:35 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292052/> 
+2019-12-04 23:04:01 engine.py [line:62] INFO:爬虫启动：2019-12-04 23:04:01.245323
+2019-12-04 23:04:01 scheduler.py [line:69] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-04 23:04:01 scheduler.py [line:69] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-04 23:04:01 downloader.py [line:22] INFO:<200    https://www.douban.com/> 
+2019-12-04 23:04:02 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-12-04 23:04:02 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-12-04 23:04:02 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-12-04 23:04:02 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-12-04 23:04:03 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-12-04 23:04:03 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-12-04 23:04:03 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-12-04 23:04:04 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-12-04 23:04:04 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=200&filter=> 
+2019-12-04 23:04:04 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=225&filter=> 
+2019-12-04 23:06:49 engine.py [line:62] INFO:爬虫启动：2019-12-04 23:06:49.674071
+2019-12-04 23:06:49 scheduler.py [line:69] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-04 23:06:49 scheduler.py [line:69] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-04 23:06:50 downloader.py [line:22] INFO:<200    https://www.douban.com/> 
+2019-12-04 23:06:50 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-12-04 23:06:51 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-12-04 23:06:51 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-12-04 23:06:51 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-12-04 23:06:52 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-12-04 23:06:52 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-12-04 23:06:52 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-12-04 23:06:52 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-12-04 23:06:53 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=200&filter=> 
+2019-12-04 23:06:53 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=225&filter=> 
+2019-12-04 23:06:55 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292052/> 
+2019-12-04 23:06:55 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1851857/> 
+2019-12-04 23:06:56 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1293350/> 
+2019-12-04 23:06:57 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292223/> 
+2019-12-04 23:06:57 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/25958717/> 
+2019-12-04 23:07:23 engine.py [line:62] INFO:爬虫启动：2019-12-04 23:07:23.076911
+2019-12-04 23:07:23 scheduler.py [line:69] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-04 23:07:23 scheduler.py [line:69] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-04 23:07:24 downloader.py [line:22] INFO:<200    https://www.douban.com/> 
+2019-12-04 23:07:25 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-12-04 23:07:26 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-12-04 23:07:26 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-12-04 23:07:27 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-12-04 23:07:27 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-12-04 23:07:27 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-12-04 23:07:28 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-12-04 23:07:28 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-12-04 23:14:16 engine.py [line:62] INFO:爬虫启动：2019-12-04 23:14:16.076916
+2019-12-04 23:14:16 engine.py [line:63] INFO:爬虫启动的爬虫：['spiders.baidu.BaiduSpider', 'spiders.douban.DoubanSpider']
+2019-12-04 23:14:16 engine.py [line:64] INFO:爬虫启动的管道：['pipelines.BaiduPipeline', 'pipelines.DoubanPipeline']
+2019-12-04 23:14:16 engine.py [line:65] INFO:爬虫启动的下载器中间件：[]
+2019-12-04 23:14:16 engine.py [line:66] INFO:爬虫启动的爬虫中间件：[]
+2019-12-04 23:14:16 scheduler.py [line:69] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-04 23:14:16 scheduler.py [line:69] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-04 23:14:16 downloader.py [line:22] INFO:<200    https://www.douban.com/> 
+2019-12-04 23:14:17 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-12-04 23:14:17 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-12-04 23:14:17 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-12-04 23:14:17 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-12-04 23:14:18 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-12-04 23:14:18 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-12-04 23:14:19 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-12-04 23:14:19 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-12-04 23:14:19 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=200&filter=> 
+2019-12-04 23:14:19 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=225&filter=> 
+2019-12-04 23:14:21 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292052/> 
+2019-12-04 23:14:22 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1851857/> 
+2019-12-04 23:14:23 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1293350/> 
+2019-12-04 23:14:23 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292223/> 
+2019-12-04 23:14:24 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/25958717/> 
+2019-12-04 23:14:25 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1306249/> 
+2019-12-04 23:14:26 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/25773932/> 
+2019-12-04 23:14:28 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1291578/> 
+2019-12-04 23:14:29 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1862151/> 
+2019-12-04 23:14:29 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/6874403/> 
+2019-12-04 23:14:29 engine.py [line:69] INFO:爬虫结束：2019-12-04 23:14:29.765682
+2019-12-04 23:14:29 engine.py [line:70] INFO:爬虫一共运行：13.688766秒
+2019-12-04 23:14:29 engine.py [line:71] INFO:总的请求数量：23个
+2019-12-04 23:14:29 engine.py [line:72] INFO:总的响应数量：21个
+2019-12-04 23:14:29 engine.py [line:73] INFO:总的重复数量：2个
+2019-12-04 23:14:57 engine.py [line:62] INFO:爬虫启动：2019-12-04 23:14:57.617059
+2019-12-04 23:14:57 engine.py [line:63] INFO:爬虫启动的爬虫：['spiders.baidu.BaiduSpider', 'spiders.douban.DoubanSpider']
+2019-12-04 23:14:57 engine.py [line:64] INFO:爬虫启动的管道：['pipelines.BaiduPipeline', 'pipelines.DoubanPipeline']
+2019-12-04 23:14:57 engine.py [line:65] INFO:爬虫启动的下载器中间件：[]
+2019-12-04 23:14:57 engine.py [line:66] INFO:爬虫启动的爬虫中间件：[]
+2019-12-04 23:14:57 scheduler.py [line:69] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-04 23:14:57 scheduler.py [line:69] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-04 23:14:58 downloader.py [line:22] INFO:<200    https://www.douban.com/> 
+2019-12-04 23:14:58 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-12-04 23:14:58 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-12-04 23:14:59 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-12-04 23:14:59 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-12-04 23:15:01 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-12-04 23:15:01 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-12-04 23:15:01 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-12-04 23:15:01 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-12-04 23:15:02 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=200&filter=> 
+2019-12-04 23:15:02 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=225&filter=> 
+2019-12-04 23:15:03 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292052/> 
+2019-12-04 23:15:04 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1851857/> 
+2019-12-04 23:15:04 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1293350/> 
+2019-12-04 23:15:22 engine.py [line:62] INFO:爬虫启动：2019-12-04 23:15:22.413802
+2019-12-04 23:15:22 engine.py [line:63] INFO:爬虫启动的爬虫：['spiders.baidu.BaiduSpider', 'spiders.douban.DoubanSpider']
+2019-12-04 23:15:22 engine.py [line:64] INFO:爬虫启动的管道：['pipelines.BaiduPipeline', 'pipelines.DoubanPipeline']
+2019-12-04 23:15:22 engine.py [line:65] INFO:爬虫启动的下载器中间件：[]
+2019-12-04 23:15:22 engine.py [line:66] INFO:爬虫启动的爬虫中间件：[]
+2019-12-04 23:15:22 scheduler.py [line:69] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-04 23:15:22 scheduler.py [line:69] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-04 23:15:22 downloader.py [line:22] INFO:<200    https://www.douban.com/> 
+2019-12-04 23:15:23 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-12-04 23:15:23 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-12-04 23:15:23 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-12-04 23:15:24 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-12-04 23:15:24 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-12-04 23:15:24 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-12-04 23:16:20 engine.py [line:62] INFO:爬虫启动：2019-12-04 23:16:20.520311
+2019-12-04 23:16:20 engine.py [line:63] INFO:爬虫启动的爬虫：['spiders.baidu.BaiduSpider', 'spiders.douban.DoubanSpider']
+2019-12-04 23:16:20 engine.py [line:64] INFO:爬虫启动的管道：['pipelines.BaiduPipeline', 'pipelines.DoubanPipeline']
+2019-12-04 23:16:20 engine.py [line:65] INFO:爬虫启动的下载器中间件：[]
+2019-12-04 23:16:20 engine.py [line:66] INFO:爬虫启动的爬虫中间件：[]
+2019-12-04 23:16:20 scheduler.py [line:69] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-04 23:16:20 scheduler.py [line:69] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-04 23:16:21 downloader.py [line:22] INFO:<200    https://www.douban.com/> 
+2019-12-04 23:16:21 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-12-04 23:16:21 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-12-04 23:16:22 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-12-04 23:16:22 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-12-04 23:16:22 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-12-04 23:17:03 engine.py [line:62] INFO:爬虫启动：2019-12-04 23:17:03.589170
+2019-12-04 23:17:03 engine.py [line:63] INFO:爬虫启动的爬虫：['spiders.baidu.BaiduSpider', 'spiders.douban.DoubanSpider']
+2019-12-04 23:17:03 engine.py [line:64] INFO:爬虫启动的管道：['pipelines.BaiduPipeline', 'pipelines.DoubanPipeline']
+2019-12-04 23:17:03 engine.py [line:65] INFO:爬虫启动的下载器中间件：[]
+2019-12-04 23:17:03 engine.py [line:66] INFO:爬虫启动的爬虫中间件：[]
+2019-12-04 23:17:03 scheduler.py [line:69] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-04 23:17:03 scheduler.py [line:69] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-04 23:17:04 downloader.py [line:22] INFO:<200    https://www.douban.com/> 
+2019-12-04 23:17:04 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-12-04 23:17:04 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-12-04 23:17:05 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-12-04 23:17:05 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-12-04 23:17:05 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-12-04 23:17:05 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-12-04 23:17:06 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-12-04 23:17:06 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-12-04 23:17:06 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=200&filter=> 
+2019-12-04 23:40:11 engine.py [line:66] INFO:爬虫启动：2019-12-04 23:40:11.174956
+2019-12-04 23:40:11 engine.py [line:67] INFO:爬虫启动的爬虫：['spiders.baidu.BaiduSpider', 'spiders.douban.DoubanSpider']
+2019-12-04 23:40:11 engine.py [line:68] INFO:爬虫启动的管道：['pipelines.BaiduPipeline', 'pipelines.DoubanPipeline']
+2019-12-04 23:40:11 engine.py [line:69] INFO:爬虫启动的下载器中间件：[]
+2019-12-04 23:40:11 engine.py [line:70] INFO:爬虫启动的爬虫中间件：[]
+2019-12-04 23:40:11 scheduler.py [line:69] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-04 23:40:11 scheduler.py [line:69] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-04 23:40:13 downloader.py [line:22] INFO:<200    https://www.douban.com/> 
+2019-12-04 23:40:13 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-12-04 23:40:13 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-12-04 23:40:14 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-12-04 23:40:14 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-12-04 23:52:08 engine.py [line:75] INFO:爬虫启动：2019-12-04 23:52:08.515433
+2019-12-04 23:52:08 engine.py [line:76] INFO:爬虫启动的爬虫：['spiders.baidu.BaiduSpider', 'spiders.douban.DoubanSpider']
+2019-12-04 23:52:08 engine.py [line:77] INFO:爬虫启动的管道：['pipelines.BaiduPipeline', 'pipelines.DoubanPipeline']
+2019-12-04 23:52:08 engine.py [line:78] INFO:爬虫启动的下载器中间件：[]
+2019-12-04 23:52:08 engine.py [line:79] INFO:爬虫启动的爬虫中间件：[]
+2019-12-04 23:52:08 scheduler.py [line:69] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-04 23:52:08 scheduler.py [line:69] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-04 23:52:09 downloader.py [line:22] INFO:<200    https://www.douban.com/> 
+2019-12-04 23:52:09 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-12-04 23:52:09 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-12-04 23:52:09 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-12-04 23:52:09 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-12-04 23:52:09 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-12-04 23:52:10 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-12-04 23:52:10 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-12-04 23:52:10 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=200&filter=> 
+2019-12-04 23:52:10 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-12-04 23:52:10 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=225&filter=> 
+2019-12-04 23:52:11 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1293350/> 
+2019-12-04 23:52:11 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292223/> 
+2019-12-04 23:52:11 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1851857/> 
+2019-12-04 23:52:11 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292052/> 
+2019-12-04 23:52:11 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/25958717/> 
+2019-12-04 23:52:11 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1306249/> 
+2019-12-04 23:52:12 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1291578/> 
+2019-12-04 23:52:12 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/25773932/> 
+2019-12-04 23:52:12 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1862151/> 
+2019-12-04 23:52:12 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/6874403/> 
+2019-12-04 23:52:12 engine.py [line:83] INFO:爬虫结束：2019-12-04 23:52:12.172071
+2019-12-04 23:52:12 engine.py [line:84] INFO:爬虫一共运行：3.656638秒
+2019-12-04 23:52:12 engine.py [line:85] INFO:总的请求数量：23个
+2019-12-04 23:52:12 engine.py [line:86] INFO:总的响应数量：21个
+2019-12-04 23:52:12 engine.py [line:87] INFO:总的重复数量：2个
+2019-12-04 23:53:46 engine.py [line:75] INFO:爬虫启动：2019-12-04 23:53:46.569851
+2019-12-04 23:53:46 engine.py [line:76] INFO:爬虫启动的爬虫：['spiders.baidu.BaiduSpider', 'spiders.douban.DoubanSpider']
+2019-12-04 23:53:46 engine.py [line:77] INFO:爬虫启动的管道：['pipelines.BaiduPipeline', 'pipelines.DoubanPipeline']
+2019-12-04 23:53:46 engine.py [line:78] INFO:爬虫启动的下载器中间件：[]
+2019-12-04 23:53:46 engine.py [line:79] INFO:爬虫启动的爬虫中间件：[]
+2019-12-04 23:53:46 scheduler.py [line:69] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-04 23:53:46 scheduler.py [line:69] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-04 23:53:47 downloader.py [line:22] INFO:<200    https://www.douban.com/> 
+2019-12-04 23:53:47 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-12-04 23:53:47 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-12-04 23:53:48 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-12-04 23:53:48 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-12-06 00:02:43 engine.py [line:78] INFO:爬虫启动：2019-12-06 00:02:43.378024
+2019-12-06 00:02:43 engine.py [line:79] INFO:爬虫启动的爬虫：['spiders.baidu.BaiduSpider', 'spiders.douban.DoubanSpider']
+2019-12-06 00:02:43 engine.py [line:80] INFO:爬虫启动的管道：['pipelines.BaiduPipeline', 'pipelines.DoubanPipeline']
+2019-12-06 00:02:43 engine.py [line:81] INFO:爬虫启动的下载器中间件：[]
+2019-12-06 00:02:43 engine.py [line:82] INFO:爬虫启动的爬虫中间件：[]
+2019-12-06 00:11:35 engine.py [line:78] INFO:爬虫启动：2019-12-06 00:11:35.966060
+2019-12-06 00:11:35 engine.py [line:79] INFO:爬虫启动的爬虫：['spiders.baidu.BaiduSpider', 'spiders.douban.DoubanSpider']
+2019-12-06 00:11:35 engine.py [line:80] INFO:爬虫启动的管道：['pipelines.BaiduPipeline', 'pipelines.DoubanPipeline']
+2019-12-06 00:11:35 engine.py [line:81] INFO:爬虫启动的下载器中间件：[]
+2019-12-06 00:11:35 engine.py [line:82] INFO:爬虫启动的爬虫中间件：[]
+2019-12-06 00:19:36 engine.py [line:78] INFO:爬虫启动：2019-12-06 00:19:36.107870
+2019-12-06 00:19:36 engine.py [line:79] INFO:爬虫启动的爬虫：['spiders.baidu.BaiduSpider', 'spiders.douban.DoubanSpider']
+2019-12-06 00:19:36 engine.py [line:80] INFO:爬虫启动的管道：['pipelines.BaiduPipeline', 'pipelines.DoubanPipeline']
+2019-12-06 00:19:36 engine.py [line:81] INFO:爬虫启动的下载器中间件：[]
+2019-12-06 00:19:36 engine.py [line:82] INFO:爬虫启动的爬虫中间件：[]
+2019-12-06 00:20:26 engine.py [line:78] INFO:爬虫启动：2019-12-06 00:20:26.382101
+2019-12-06 00:20:26 engine.py [line:79] INFO:爬虫启动的爬虫：['spiders.baidu.BaiduSpider', 'spiders.douban.DoubanSpider']
+2019-12-06 00:20:26 engine.py [line:80] INFO:爬虫启动的管道：['pipelines.BaiduPipeline', 'pipelines.DoubanPipeline']
+2019-12-06 00:20:26 engine.py [line:81] INFO:爬虫启动的下载器中间件：[]
+2019-12-06 00:20:26 engine.py [line:82] INFO:爬虫启动的爬虫中间件：[]
+2019-12-06 00:29:04 engine.py [line:78] INFO:爬虫启动：2019-12-06 00:29:04.593794
+2019-12-06 00:29:04 engine.py [line:79] INFO:爬虫启动的爬虫：['spiders.baidu.BaiduSpider', 'spiders.douban.DoubanSpider']
+2019-12-06 00:29:04 engine.py [line:80] INFO:爬虫启动的管道：['pipelines.BaiduPipeline', 'pipelines.DoubanPipeline']
+2019-12-06 00:29:04 engine.py [line:81] INFO:爬虫启动的下载器中间件：[]
+2019-12-06 00:29:04 engine.py [line:82] INFO:爬虫启动的爬虫中间件：[]
+2019-12-06 00:29:06 scheduler.py [line:81] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-06 00:29:06 scheduler.py [line:81] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-06 00:29:07 downloader.py [line:22] INFO:<200    https://www.douban.com/> 
+2019-12-06 00:29:07 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-12-06 00:29:07 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-12-06 00:29:07 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-12-06 00:29:08 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-12-06 00:29:08 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-12-06 00:29:08 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-12-06 00:29:08 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=200&filter=> 
+2019-12-06 00:29:08 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-12-06 00:29:08 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-12-06 00:29:09 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=225&filter=> 
+2019-12-06 00:29:09 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1293350/> 
+2019-12-06 00:29:09 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292052/> 
+2019-12-06 00:29:10 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292223/> 
+2019-12-06 00:29:10 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1306249/> 
+2019-12-06 00:29:10 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/25958717/> 
+2019-12-06 00:31:10 engine.py [line:78] INFO:爬虫启动：2019-12-06 00:31:10.889494
+2019-12-06 00:31:10 engine.py [line:79] INFO:爬虫启动的爬虫：['spiders.baidu.BaiduSpider', 'spiders.douban.DoubanSpider']
+2019-12-06 00:31:10 engine.py [line:80] INFO:爬虫启动的管道：['pipelines.BaiduPipeline', 'pipelines.DoubanPipeline']
+2019-12-06 00:31:10 engine.py [line:81] INFO:爬虫启动的下载器中间件：[]
+2019-12-06 00:31:10 engine.py [line:82] INFO:爬虫启动的爬虫中间件：[]
+2019-12-06 00:31:55 engine.py [line:78] INFO:爬虫启动：2019-12-06 00:31:55.866138
+2019-12-06 00:31:55 engine.py [line:79] INFO:爬虫启动的爬虫：['spiders.baidu.BaiduSpider', 'spiders.douban.DoubanSpider']
+2019-12-06 00:31:55 engine.py [line:80] INFO:爬虫启动的管道：['pipelines.BaiduPipeline', 'pipelines.DoubanPipeline']
+2019-12-06 00:31:55 engine.py [line:81] INFO:爬虫启动的下载器中间件：[]
+2019-12-06 00:31:55 engine.py [line:82] INFO:爬虫启动的爬虫中间件：[]
+2019-12-06 00:31:57 scheduler.py [line:81] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-06 00:31:59 scheduler.py [line:81] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-06 00:31:59 scheduler.py [line:81] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-06 00:33:16 engine.py [line:78] INFO:爬虫启动：2019-12-06 00:33:16.775862
+2019-12-06 00:33:16 engine.py [line:79] INFO:爬虫启动的爬虫：['spiders.baidu.BaiduSpider', 'spiders.douban.DoubanSpider']
+2019-12-06 00:33:16 engine.py [line:80] INFO:爬虫启动的管道：['pipelines.BaiduPipeline', 'pipelines.DoubanPipeline']
+2019-12-06 00:33:16 engine.py [line:81] INFO:爬虫启动的下载器中间件：[]
+2019-12-06 00:33:16 engine.py [line:82] INFO:爬虫启动的爬虫中间件：[]
+2019-12-06 00:33:18 scheduler.py [line:81] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-06 00:33:20 scheduler.py [line:81] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-06 00:33:20 scheduler.py [line:81] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-06 00:33:20 scheduler.py [line:81] INFO:发现重复的请求：<GET https://movie.douban.com/top250?start=0&filter=>
+2019-12-06 00:33:53 engine.py [line:78] INFO:爬虫启动：2019-12-06 00:33:53.855015
+2019-12-06 00:33:53 engine.py [line:79] INFO:爬虫启动的爬虫：['spiders.baidu.BaiduSpider', 'spiders.douban.DoubanSpider']
+2019-12-06 00:33:53 engine.py [line:80] INFO:爬虫启动的管道：['pipelines.BaiduPipeline', 'pipelines.DoubanPipeline']
+2019-12-06 00:33:53 engine.py [line:81] INFO:爬虫启动的下载器中间件：[]
+2019-12-06 00:33:53 engine.py [line:82] INFO:爬虫启动的爬虫中间件：[]
+2019-12-06 00:33:55 scheduler.py [line:81] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-06 00:33:57 scheduler.py [line:81] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-06 00:33:57 scheduler.py [line:81] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-06 00:33:57 scheduler.py [line:81] INFO:发现重复的请求：<GET https://movie.douban.com/top250?start=0&filter=>
+2019-12-06 00:33:57 scheduler.py [line:81] INFO:发现重复的请求：<GET https://movie.douban.com/top250?start=25&filter=>
+2019-12-06 00:36:21 engine.py [line:78] INFO:爬虫启动：2019-12-06 00:36:21.468260
+2019-12-06 00:36:21 engine.py [line:79] INFO:爬虫启动的爬虫：['spiders.baidu.BaiduSpider', 'spiders.douban.DoubanSpider']
+2019-12-06 00:36:21 engine.py [line:80] INFO:爬虫启动的管道：['pipelines.BaiduPipeline', 'pipelines.DoubanPipeline']
+2019-12-06 00:36:21 engine.py [line:81] INFO:爬虫启动的下载器中间件：[]
+2019-12-06 00:36:21 engine.py [line:82] INFO:爬虫启动的爬虫中间件：[]
+2019-12-06 00:47:37 engine.py [line:78] INFO:爬虫启动：2019-12-06 00:47:37.614487
+2019-12-06 00:47:37 engine.py [line:79] INFO:爬虫启动的爬虫：['spiders.baidu.BaiduSpider', 'spiders.douban.DoubanSpider']
+2019-12-06 00:47:37 engine.py [line:80] INFO:爬虫启动的管道：['pipelines.BaiduPipeline', 'pipelines.DoubanPipeline']
+2019-12-06 00:47:37 engine.py [line:81] INFO:爬虫启动的下载器中间件：[]
+2019-12-06 00:47:37 engine.py [line:82] INFO:爬虫启动的爬虫中间件：[]
+2019-12-06 00:47:39 scheduler.py [line:81] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-06 00:47:39 scheduler.py [line:81] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-06 00:47:40 downloader.py [line:22] INFO:<200    https://www.douban.com/> 
+2019-12-06 00:47:40 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-12-06 00:47:40 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-12-06 00:47:40 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-12-06 00:47:41 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-12-06 00:47:41 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-12-06 00:47:41 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-12-06 00:47:41 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-12-06 00:47:42 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-12-06 00:47:42 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=200&filter=> 
+2019-12-06 00:47:42 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=225&filter=> 
+2019-12-06 00:47:43 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1851857/> 
+2019-12-06 00:47:43 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1293350/> 
+2019-12-06 00:47:43 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292223/> 
+2019-12-06 00:47:44 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292052/> 
+2019-12-06 00:47:44 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/25958717/> 
+2019-12-06 00:47:44 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/25773932/> 
+2019-12-06 00:47:45 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1306249/> 
+2019-12-06 00:47:45 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1291578/> 
+2019-12-06 00:47:45 engine.py [line:86] INFO:爬虫结束：2019-12-06 00:47:45.189076
+2019-12-06 00:47:45 engine.py [line:87] INFO:爬虫一共运行：7.574589秒
+2019-12-06 00:47:45 engine.py [line:89] INFO:总的请求数量：44个
+2019-12-06 00:47:45 engine.py [line:91] INFO:总的响应数量：44个
+2019-12-06 00:47:45 engine.py [line:93] INFO:总的重复数量：44个
+2019-12-08 23:46:11 engine.py [line:78] INFO:爬虫启动：2019-12-08 23:46:11.885039
+2019-12-08 23:46:11 engine.py [line:79] INFO:爬虫启动的爬虫：['spiders.baidu.BaiduSpider', 'spiders.douban.DoubanSpider']
+2019-12-08 23:46:11 engine.py [line:80] INFO:爬虫启动的管道：['pipelines.BaiduPipeline', 'pipelines.DoubanPipeline']
+2019-12-08 23:46:11 engine.py [line:81] INFO:爬虫启动的下载器中间件：[]
+2019-12-08 23:46:11 engine.py [line:82] INFO:爬虫启动的爬虫中间件：[]
+2019-12-08 23:47:18 engine.py [line:78] INFO:爬虫启动：2019-12-08 23:47:18.190078
+2019-12-08 23:47:18 engine.py [line:79] INFO:爬虫启动的爬虫：['spiders.baidu.BaiduSpider', 'spiders.douban.DoubanSpider']
+2019-12-08 23:47:18 engine.py [line:80] INFO:爬虫启动的管道：['pipelines.BaiduPipeline', 'pipelines.DoubanPipeline']
+2019-12-08 23:47:18 engine.py [line:81] INFO:爬虫启动的下载器中间件：[]
+2019-12-08 23:47:18 engine.py [line:82] INFO:爬虫启动的爬虫中间件：[]
+2019-12-08 23:47:22 scheduler.py [line:89] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-08 23:47:22 scheduler.py [line:89] INFO:发现重复的请求：<GET http://www.douban.com>
+2019-12-08 23:47:22 downloader.py [line:22] INFO:<200    https://www.douban.com/> 
+2019-12-08 23:47:24 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=0&filter=> 
+2019-12-08 23:47:25 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=50&filter=> 
+2019-12-08 23:47:27 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=75&filter=> 
+2019-12-08 23:47:29 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=150&filter=> 
+2019-12-08 23:47:30 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=125&filter=> 
+2019-12-08 23:47:32 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=175&filter=> 
+2019-12-08 23:47:33 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=200&filter=> 
+2019-12-08 23:47:33 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=25&filter=> 
+2019-12-08 23:47:33 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=100&filter=> 
+2019-12-08 23:47:36 downloader.py [line:22] INFO:<200    https://movie.douban.com/top250?start=225&filter=> 
+2019-12-08 23:47:42 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1294240/> 
+2019-12-08 23:47:43 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1293350/> 
+2019-12-08 23:47:43 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292223/> 
+2019-12-08 23:47:46 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1306249/> 
+2019-12-08 23:47:49 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1292052/> 
+2019-12-08 23:47:50 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1309163/> 
+2019-12-08 23:47:50 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1862151/> 
+2019-12-08 23:47:50 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1851857/> 
+2019-12-08 23:47:54 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/25958717/> 
+2019-12-08 23:47:55 downloader.py [line:22] INFO:<200    https://movie.douban.com/subject/1428175/> 
